@@ -27,6 +27,13 @@
       </a>
     {%- endif -%}
 
+    {%- if _author.qq -%}
+      <li title="{{ _locale_string_follow | replace: '[NAME]', 'QQ' }}">
+        <a class="button button--circle qq-button" itemprop="sameAs" href="http://wpa.qq.com/msgrd?v=3&uin={{ _author.qq }}&site=qq&menu=yes" target="_blank">
+          <div class="icon">{%- include svg/icon/social/qq.svg -%}</div>
+        </a>
+      </li>
+    {%- endif -%}
 
     {%- if _author.facebook -%}
       <li title="{{ _locale_string_follow | replace: '[NAME]', 'Facebook' }}">
