@@ -131,3 +131,7 @@ friends: [
         href: "http://ingf.github.io/"
     }
 ]
+
+#Jekyll exclude file
+Exclude:
+    - Hux/
