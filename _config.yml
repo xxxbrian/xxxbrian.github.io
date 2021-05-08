@@ -132,6 +132,3 @@ friends: [
     }
 ]
 
-#Jekyll exclude file
-Exclude:
-    - Hux/_posts/2017-07-12-upgrading-eleme-to-pwa.markdown
