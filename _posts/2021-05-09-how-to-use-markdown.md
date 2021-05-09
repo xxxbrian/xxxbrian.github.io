@@ -5,7 +5,8 @@ subtitle:   "How to use Markdown"
 date:       2021-05-19 14:26:31
 author:     "xxxbrian"
 catalog: true
-header-style: text
+header-img: "img/in-post/2021-05-09-how-to-use-markdown/bg-markdown.jpeg"
+header-mask: 0.4
 tags:
   - 笔记
   - Markdown
