@@ -7,7 +7,7 @@ author:     "xxxbrian"
 catalog: true
 header-style: text
 tags:
-  - 学习笔记
+  - 笔记
   - Markdown
 ---
 
