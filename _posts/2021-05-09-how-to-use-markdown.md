@@ -9,6 +9,7 @@ header-img: "img/in-post/2021-05-09-how-to-use-markdown/bg-markdown.jpeg"
 header-mask: 0.4
 tags:
   - 笔记
+  - 教程
   - Markdown
 ---
 
