@@ -81,7 +81,7 @@ sudo yum install kmod-wireguard wireguard-tools
 cp wgcf-profile.conf /etc/wireguard/wgcf.conf
 ```
 
-### 启动WARP
+### 启动wgcf
 
 ```shell
 #加载内核模块
