@@ -22,7 +22,7 @@ Cloudflare WARP 是 Cloudflare 推出的一项网络隐私保护服务, 通过�
 
 [WGCF](https://github.com/ViRb3/wgcf)是WARP的非官方cli客户端。
 
-通过WGCF可以VPS添加ipv4，ipv6代理,以达到解锁Netflix的目的。
+通过WGCF可以为VPS添加ipv4，ipv6代理,以达到解锁Netflix的目的。
 
 ### 安装wgcf
 
