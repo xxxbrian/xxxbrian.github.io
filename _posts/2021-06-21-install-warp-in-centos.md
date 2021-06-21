@@ -5,7 +5,7 @@ subtitle:   "How to install WARP in CentOS"
 date:       2021-06-21 15:01:31
 author:     "xxxbrian"
 catalog: true
-header-img: "img/in-post/2021-06-21-install-warp-in-centos/bg-netflix.png"
+header-img: "img/in-post/2021-06-21-install-warp-in-centos/bg-Netflix.png"
 header-mask: 0.4
 tags:
   - 笔记
